@@ -1,1 +1,5 @@
-
+mlflow
+pandas
+scikit-learn
+fastapi
+uvicorn[standard]
