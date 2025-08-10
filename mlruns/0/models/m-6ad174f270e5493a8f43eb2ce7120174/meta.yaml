@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/vidhyacd/Desktop/Desktop%20Folders/git/mlops-iris/mlruns/0/models/m-6ad174f270e5493a8f43eb2ce7120174/artifacts
+creation_timestamp: 1754849655255
+experiment_id: '0'
+last_updated_timestamp: 1754849661636
+model_id: m-6ad174f270e5493a8f43eb2ce7120174
+model_type: null
+name: model
+source_run_id: 9e913005266749ea9d66f18d2e0ccd86
+status: 2
+status_message: null

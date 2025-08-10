@@ -1,5 +1,6 @@
-mlflow
+mlflow==3.2.0
+flask
 pandas
 scikit-learn
-fastapi
-uvicorn[standard]
+gunicorn
+

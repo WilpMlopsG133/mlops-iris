@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vidhyacd/Desktop/Desktop%20Folders/git/mlops-iris/mlruns/0/9e913005266749ea9d66f18d2e0ccd86/artifacts
+end_time: 1754849661647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e913005266749ea9d66f18d2e0ccd86
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754849655156
+status: 3
+tags: []
+user_id: vidhyacd

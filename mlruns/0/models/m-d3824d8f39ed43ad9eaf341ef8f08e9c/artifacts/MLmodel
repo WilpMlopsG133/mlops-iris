@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/vidhyacd/Desktop/Desktop%20Folders/git/mlops-iris/mlruns/0/models/m-d3824d8f39ed43ad9eaf341ef8f08e9c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.2.0
+model_id: m-d3824d8f39ed43ad9eaf341ef8f08e9c
+model_size_bytes: 177196
+model_uuid: m-d3824d8f39ed43ad9eaf341ef8f08e9c
+prompts: null
+run_id: 1afbdd8bae1c4c64b2b8b43016d92636
+utc_time_created: '2025-08-10 18:21:27.703207'

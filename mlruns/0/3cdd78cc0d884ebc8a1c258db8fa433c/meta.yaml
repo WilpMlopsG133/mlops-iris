@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vidhyacd/Desktop/Desktop%20Folders/git/mlops-iris/mlruns/0/3cdd78cc0d884ebc8a1c258db8fa433c/artifacts
+end_time: 1754850667004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cdd78cc0d884ebc8a1c258db8fa433c
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754850661657
+status: 3
+tags: []
+user_id: vidhyacd
